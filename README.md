@@ -14,4 +14,4 @@ If you don't have the target process open the program will simply close.
 ![RobloxPlayerBeta_RfxPKmG63D](https://github.com/GavinCoded/Roblox-Hook-Scanner/assets/105064040/317a047b-eb08-449c-9361-81d0381ba8e6)
 
 # Star
-star pls ok thank
+It would really mean a lot if you could star!
