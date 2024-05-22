@@ -1,4 +1,6 @@
 # Roblox Hook Scanner
+![icon (2)](https://github.com/GavinCoded/Roblox-Hook-Scanner/assets/105064040/b01cbef7-fe01-4250-a845-e83a869c1b9d)
+
 a simple c++ program to scan all the dll hooks
 # Warning
 !!This code is complete garbage please know that before looking!!
