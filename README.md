@@ -13,7 +13,7 @@ If you are fine with Roblox, Simply run the executable WITH the game open and th
 If you don't have the target process open the program will simply close.
 
 # Demo
-![RobloxPlayerBeta_RfxPKmG63D](https://github.com/GavinCoded/Roblox-Hook-Scanner/assets/105064040/317a047b-eb08-449c-9361-81d0381ba8e6)
+![explorer_3rAi4EnuJU](https://github.com/GavinCoded/Roblox-Hook-Scanner/assets/105064040/884a7220-2e9d-41a2-bb36-9fa3839aa9dd)
 
 # Star ⭐️
 It would really mean a lot if you could star!
