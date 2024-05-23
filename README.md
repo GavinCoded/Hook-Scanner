@@ -10,7 +10,8 @@ Simply download the program from the releases tab or compile it, Once you launch
 If you don't have the target process open the program will simply close.
 
 # Demo
-![explorer_3rAi4EnuJU](https://github.com/GavinCoded/Roblox-Hook-Scanner/assets/105064040/884a7220-2e9d-41a2-bb36-9fa3839aa9dd)
+![RobloxPlayerBeta_y9X4Aqg76s](https://github.com/GavinCoded/Hook-Scanner/assets/105064040/2527b2e3-57a5-4c12-acd5-66e770c20671)
+
 
 # Star ⭐️
 It would really mean a lot if you could star!
