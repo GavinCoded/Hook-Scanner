@@ -6,10 +6,7 @@ a simple c++ program to scan all the dll hooks
 !!This code is complete garbage please know that before looking!!
 I am not responsable if you somehow get banned from any game for using this.
 # Instructions
-If you don't want to use roblox as a process, simply change the process name to the executable of your choice.
-![Screenshot_1](https://github.com/GavinCoded/Roblox-Hook-Scanner/assets/105064040/adc0dcb2-e670-46d9-9ec3-5756e9972362)
-
-If you are fine with Roblox, Simply run the executable WITH the game open and thats it!
+Simply download the program from the releases tab or compile it, Once you launch it you should get a option to choose a process name example: Discord.exe
 If you don't have the target process open the program will simply close.
 
 # Demo
