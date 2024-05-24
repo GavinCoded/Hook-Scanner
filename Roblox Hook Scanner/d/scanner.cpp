@@ -179,7 +179,7 @@ void realtm(DWORD processId, atomic_bool& keepRunning) {
 
 int main() {
     wstring processname;
-    print_time("Hook-Scanner v2.2");
+    print_time("Hook-Scanner v2.3");
     print_time("Enter the process name you want to scan: ");
     wcin >> processname;
 
